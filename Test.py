@@ -1,0 +1,1 @@
+echo "# Minecraft" >> README.md
